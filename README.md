@@ -2,6 +2,10 @@
 
 Este repositório contém uma solução de Machine Learning desenvolvida para prever a ocorrência de eventos climáticos extremos no Brasil, utilizando dados históricos meteorológicos.
 
+## Vídeo de Demonstração
+
+Assista ao vídeo de demonstração do projeto: [Vídeo de Demonstração](https://youtu.be/CmF9GxCWf2c)
+
 ## Estrutura do Projeto
 
 - `dataset_climatico.csv`: Base de dados com registros históricos de clima e classificação de eventos extremos.
